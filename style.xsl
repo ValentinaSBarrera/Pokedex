@@ -83,7 +83,7 @@
                 </div>
               </div>
               <div class="bg-light-gray-overlay text-body py-2 d-flex">
-                <img class="img-fluid opacity-0" alt="POKEBOLA" src="./img/Pokeball.png" />
+                <img class="img-fluid" alt="POKEBOLA" src="./img/Pokeball.png" />
                 <h2 class="flex-grow-1 m-0 p-0 h-min-content align-self-center">
                   EL MUNDO POKEMON EN AZARQUIEL - S1DAM
                 </h2>
