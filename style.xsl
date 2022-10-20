@@ -82,12 +82,12 @@
                     </xsl:for-each>
                 </div>
               </div>
-              <div class="bg-light-gray-overlay text-body py-2 d-flex">
-                <img class="img-fluid" alt="POKEBOLA" src="./img/Pokeball.png" />
+              <div class="bg-footer text-body py-2 d-flex">
+                <img class="img-fluid pl-3" alt="POKEBOLA" src="./img/Pokeball.png" />
                 <h2 class="flex-grow-1 m-0 p-0 h-min-content align-self-center">
-                  EL MUNDO POKEMON EN AZARQUIEL - S1DAM
+                  POKEDEX - Developed Valentina SB
                 </h2>
-                <img class="img-fluid" alt="POKEBOLA" src="./img/Pokeball.png" />
+                <img class=" pr-3 img-fluid" alt="POKEBOLA" src="./img/Pokeball.png" />
               </div>
             </div>
           <!-- Optional JavaScript -->
